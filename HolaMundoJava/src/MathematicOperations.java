@@ -16,7 +16,7 @@ public class MathematicOperations {
         System.out.println(Math.max(x,y));
 
         //Devuelve la raíz cuadrada
-        System.out.println(Math.sqrt(y));
+        System.out.println((int) Math.sqrt(y));
 
         //Area de un circulo
         //pi * r2
