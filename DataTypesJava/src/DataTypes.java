@@ -8,5 +8,17 @@ public class DataTypes {
         float nF = 123.456F;
 
 
+        var salary = 1000; //int
+        //pension 3%
+        var pension = salary*0.03; //double
+        var totalSalary = salary - pension; //double
+
+        System.out.println(salary);
+        System.out.println(pension);
+        System.out.println(totalSalary);
+
+        var employeeName = "Anahí Salgado"; //string
+        System.out.println("EMPLOYEE: " + employeeName + " SALARY: " + totalSalary);
+
     }
 }
