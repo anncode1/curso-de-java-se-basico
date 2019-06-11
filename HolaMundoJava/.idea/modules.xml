@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DataTypesJava.iml" filepath="$PROJECT_DIR$/DataTypesJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HolaMundoJava.iml" filepath="$PROJECT_DIR$/HolaMundoJava.iml" />
     </modules>
   </component>
 </project>
