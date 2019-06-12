@@ -17,7 +17,7 @@ public class SwitchStatement {
                 System.out.println("Seleccionaste Dark Mode");
                 break;
 
-            default:
+            default :
                 System.out.println("Selecciona una opción");
 
 
