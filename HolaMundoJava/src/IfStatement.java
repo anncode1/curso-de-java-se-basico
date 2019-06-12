@@ -7,6 +7,13 @@ public class IfStatement {
             //Send file
             fileSended++;
             System.out.println("Archivo Enviado");
+
+        } else {
+            fileSended--;
+            System.out.println("Por favor enciente tu Bluetooth, para iniciar la transferencia");
         }
+
+        System.out.println(isBluetoothEnabled);
+        System.out.println(fileSended);
     }
 }
