@@ -37,11 +37,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DoWhileLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="26" column="36" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="164">
+              <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/WhileLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/MathematicOperations.java" />
         <option value="$PROJECT_DIR$/src/Funciones.java" />
         <option value="$PROJECT_DIR$/src/DoWhileLoop.java" />
+        <option value="$PROJECT_DIR$/src/WhileLoop.java" />
       </list>
     </option>
   </component>
@@ -126,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DoWhileLoop">
+  <component name="RunManager" selected="Application.WhileLoop">
     <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoWhileLoop" />
       <module name="HolaMundoJava" />
@@ -136,13 +150,6 @@
     </configuration>
     <configuration name="Funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Funciones" />
-      <module name="HolaMundoJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfStatement" />
       <module name="HolaMundoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,13 +169,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
+      <module name="HolaMundoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.DoWhileLoop" />
         <item itemvalue="Application.Funciones" />
         <item itemvalue="Application.SwitchStatement" />
         <item itemvalue="Application.LogicOperations" />
-        <item itemvalue="Application.IfStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -343,8 +357,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DoWhileLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="26" column="36" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="164">
+          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
