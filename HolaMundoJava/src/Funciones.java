@@ -1,5 +1,14 @@
 public class Funciones {
 
+    /*
+    * Linea 1
+    * Linea 2
+    *
+    * */
+
+    /**
+     * Javadoc
+     * */
     public static void main(String[] args) {
         double y = 3;
         //Area de un circulo
@@ -15,6 +24,8 @@ public class Funciones {
         sphereVolumen(y);
 
         System.out.println("PESOS A DOLARES: " + converToDolar(1000, "COP"));
+
+
     }
 
     public static double circleArea(double r){
@@ -29,6 +40,14 @@ public class Funciones {
         return (4/3) * Math.PI * Math.pow(r,3);
     }
 
+
+    /**
+     * Descripción: Función que especificando su moneda convierte una cantidad de dinero a dolares
+     *
+     * @param quantity Cantidad de dinero
+     * @param currency Tipo de Moneda: Solo acepta MXN o COP
+     * @return quantity Devuelve la cantidad actualizada en Dolares
+     * */
     public static double converToDolar(double quantity, String currency){
         //MXN COP
         switch (currency){
